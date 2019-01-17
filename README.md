@@ -1,3 +1,3 @@
 # automatic-plant-watering
 
-[website of Automatic Plant Watering](https://automaticplantwatering.wordpress.com/2015/12/15/code/)
+click [this webpage](https://automaticplantwatering.wordpress.com/2015/12/15/code/) to see this project
